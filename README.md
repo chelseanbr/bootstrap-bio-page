@@ -1,2 +1,2 @@
-# bootstrap-bio-page
-Bio Page Created with Bootstrap
+# Bio Page Created with Bootstrap
+https://chelseanbr.github.io/bootstrap-bio-page/
